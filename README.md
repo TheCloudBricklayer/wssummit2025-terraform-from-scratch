@@ -1,0 +1,1 @@
+# wssummit2025-terraform-from-scratch
