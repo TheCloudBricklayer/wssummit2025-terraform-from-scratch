@@ -1,0 +1,24 @@
+tags = {
+  "Name" = ""
+}
+
+region = ""
+auth_url = ""
+user_name = ""
+password = ""
+tenant_name = ""
+
+key_pair = {
+  name = ""
+  public_key = ""
+}
+
+instances = [{
+  name = ""
+  image_id = ""
+  flavor_id = ""
+  key_pair_name = ""
+  security_group_id = ""
+  network_id = ""
+  subnet_id = ""
+}]
