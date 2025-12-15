@@ -19,7 +19,7 @@ Este repositorio contiene los materiales y ejemplos para el taller de Terraform 
 Antes de comenzar con este demo, asegúrate de tener instalado:
 
 - **Terraform** (versión 1.0 o superior)
-  - [Descargar Terraform](https://www.terraform.io/downloads.html)
+  - [Descargar Terraform](https://developer.hashicorp.com/terraform/install)
 - **Git** para clonar este repositorio
 - **Cuenta de Cloud Provider** (AWS, Azure, GCP, etc.) según el ejemplo que vayas a ejecutar
 - **Credenciales configuradas** para tu proveedor de nube
@@ -263,9 +263,9 @@ terraform refresh
 ## 📚 Recursos Adicionales
 
 ### Documentación Oficial
-- [Documentación de Terraform](https://www.terraform.io/docs)
+- [Documentación de Terraform](https://developer.hashicorp.com/terraform/docs)
 - [Terraform Registry](https://registry.terraform.io/)
-- [Tutoriales de HashiCorp Learn](https://learn.hashicorp.com/terraform)
+- [Tutoriales de HashiCorp Learn](https://developer.hashicorp.com/terraform/tutorials)
 
 ### Comunidad
 - [Foro de Terraform](https://discuss.hashicorp.com/c/terraform-core)
